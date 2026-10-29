@@ -1,2 +1,2 @@
-# Python_Projects
+# Python Projects
 projects i made, isn't it obvious?
